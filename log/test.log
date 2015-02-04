@@ -1,0 +1,2 @@
+  [1m[36m (229.1ms)[0m  [1mDROP DATABASE IF EXISTS "rich-code-api_test"[0m
+  [1m[35m (237.2ms)[0m  CREATE DATABASE "rich-code-api_test" ENCODING = 'utf8'
